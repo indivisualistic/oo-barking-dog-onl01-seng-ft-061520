@@ -7,10 +7,12 @@ end
 def bark
   puts "woof!"
 end
-fido = Dog.new
-fido.name ="Fido"
-puts Fido.name
-puts fido.bark
+end
+
+# fido = Dog.new
+# fido.name ="Fido"
+# puts Fido.name
+# puts fido.bark
 
 
 
